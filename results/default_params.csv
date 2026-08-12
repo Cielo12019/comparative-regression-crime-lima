@@ -1,0 +1,7 @@
+Model,Training data,Test data
+XGBoost Regression,-0.26,0.17
+Extra Tree Regression,0.03,0.19
+Support Vector Regression,-0.91,-0.28
+Bagging Regression,-0.02,0.01
+Random Forest Regression,-0.04,0.17
+AdaBoost Regression,0.07,0.28
